@@ -22,10 +22,3 @@ There is a service class `CommentService` that you should implement. See content
 
 There are some tests that are currently failing and your solution should satisfy these tests requirements.
 Remember that provided tests verify the functional correctness, however, you should remember to fulfill all best practices as well.
-
-## Hints
-Feel free to create new and modify existing files. You can add some new dependencies if you will, to do so just modify appropriate `pom.xml`. **Do not change unit tests**, however.
-
-Please follow conventions used in this project.
-
-### Good Luck!
